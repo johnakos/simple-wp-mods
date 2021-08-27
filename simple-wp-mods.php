@@ -7,6 +7,8 @@
  * Author URI:      https://github.com/johnakos/simple-wp-mods
  * Text Domain:     swpm
  * Version:         1.0.0
+ * 
+ * GitHub Plugin URI: johnakos/simple-wp-mods
  *
  * @package         swpm
  */
