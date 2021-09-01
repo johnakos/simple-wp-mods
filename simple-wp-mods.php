@@ -9,6 +9,7 @@
  * Version:         1.0.0
  * 
  * GitHub Plugin URI: johnakos/simple-wp-mods
+ * Primary Branch: main
  *
  * @package         swpm
  */
