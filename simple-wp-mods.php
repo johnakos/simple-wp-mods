@@ -6,7 +6,7 @@
  * Author:          John Kaziridis
  * Author URI:      https://github.com/johnakos/simple-wp-mods
  * Text Domain:     swpm
- * Version:         1.0.0
+ * Version:         1.1.1
  * 
  * GitHub Plugin URI: johnakos/simple-wp-mods
  * Primary Branch: main
